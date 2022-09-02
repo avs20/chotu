@@ -1,0 +1,13 @@
+
+*.pyc
+__py_cache__/
+
+instance/
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+dist/
+build/
+*.wav
