@@ -34,3 +34,6 @@ Also, we want to continously listen
 
 We got it working 
 ------------------------------
+7 Sept 2022
+-----------------------------
+Let's try to make mel frequency spectrograms from the last 1 min audio
